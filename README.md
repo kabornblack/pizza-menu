@@ -1,14 +1,15 @@
 
-Pizza Menu Co - React Application
+## Pizza Menu Co - React Application
 Welcome to the README for the "Pizza Menu Co" React application! This project is a simple web application that showcases a menu of delicious Italian pizzas. Users can view the available pizzas, their ingredients, prices, and order online during the restaurant's open hours. Here, we'll provide you with essential information on how to set up, run, and use this application.
 
-Table of Contents
+---
+
+# Table of Contents
 Project Overview
-Getting Started
 Usage
 Contributing
-License
-Project Overview
+
+#Project Overview
 The "Pizza Menu Co" React application is designed to display a menu of pizzas available at a fictional pizzeria. It provides information about each pizza, including its name, ingredients, price, and availability status. The application is divided into three main components:
 
 Header: Displays the restaurant name.
@@ -16,45 +17,18 @@ Menu: Lists the available pizzas and their details.
 Footer: Provides information about the restaurant's operating hours and allows users to place orders online during open hours.
 The application is built using React, and the pizza data is defined in the pizzaData array within the index.js file.
 
-Getting Started
-To get this project up and running on your local machine, follow these steps:
+---
 
-Clone this repository to your local machine using Git:
-
-bash
-Copy code
-git clone [repository_url]
-Navigate to the project directory:
-
-bash
-Copy code
-cd [project_directory]
-Install the project dependencies using npm or yarn:
-
-bash
-Copy code
-npm install
-# or
-yarn install
-Start the development server:
-
-bash
-Copy code
-npm start
-# or
-yarn start
-This will start the development server, and you can access the application in your web browser at http://localhost:3000.
-
-Usage
-Once the application is running, you can:
+##Usage
+#Once the application is running, you can:
 
 View the list of available pizzas and their details.
 Check if the restaurant is open or closed based on the current time.
 Place an online order during the restaurant's open hours.
 The application is designed to be simple and user-friendly, making it easy for customers to explore the menu and place orders.
 
-Contributing
-We welcome contributions to this project! If you'd like to contribute, please follow these steps:
+## Contributing
+# We welcome contributions to this project! If you'd like to contribute, please follow these steps:
 
 Fork the repository to your own GitHub account.
 Create a new branch with a descriptive name for your feature or bug fix.
