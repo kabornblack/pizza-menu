@@ -15,9 +15,9 @@ Contributing
 ### Project Overview
 The "Pizza Menu Co" React application is designed to display a menu of pizzas available at a fictional pizzeria. It provides information about each pizza, including its name, ingredients, price, and availability status. The application is divided into three main components:
 
-### Header: Displays the restaurant name.
-### Menu: Lists the available pizzas and their details.
-### Footer: Provides information about the restaurant's operating hours and allows users to place orders online during open hours.
+ Header: Displays the restaurant name.
+ Menu: Lists the available pizzas and their details.
+ Footer: Provides information about the restaurant's operating hours and allows users to place orders online during open hours.
 The application is built using React, and the pizza data is defined in the pizzaData array within the index.js file.
 
 ---
