@@ -1,15 +1,17 @@
 
-## Pizza Menu Co - React Application
+# Pizza Menu Co - React Application
 Welcome to the README for the "Pizza Menu Co" React application! This project is a simple web application that showcases a menu of delicious Italian pizzas. Users can view the available pizzas, their ingredients, prices, and order online during the restaurant's open hours. Here, we'll provide you with essential information on how to set up, run, and use this application.
 
 ---
 
 # Table of Contents
 Project Overview
+-
 Usage
+-
 Contributing
 
-#Project Overview
+## Project Overview
 The "Pizza Menu Co" React application is designed to display a menu of pizzas available at a fictional pizzeria. It provides information about each pizza, including its name, ingredients, price, and availability status. The application is divided into three main components:
 
 Header: Displays the restaurant name.
@@ -19,16 +21,16 @@ The application is built using React, and the pizza data is defined in the pizza
 
 ---
 
-##Usage
-#Once the application is running, you can:
+# Usage
+## Once the application is running, you can:
 
 View the list of available pizzas and their details.
 Check if the restaurant is open or closed based on the current time.
 Place an online order during the restaurant's open hours.
 The application is designed to be simple and user-friendly, making it easy for customers to explore the menu and place orders.
 
-## Contributing
-# We welcome contributions to this project! If you'd like to contribute, please follow these steps:
+# Contributing
+## We welcome contributions to this project! If you'd like to contribute, please follow these steps:
 
 Fork the repository to your own GitHub account.
 Create a new branch with a descriptive name for your feature or bug fix.
